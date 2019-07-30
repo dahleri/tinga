@@ -259,7 +259,7 @@ input:focus {
   z-index: 99999;
   top: 0;
   left: 0;
-  background-color: #1583e9;
+  background-color: orange;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -375,7 +375,7 @@ input:focus {
   line-height: 45px;
   right: 50px;
   width: 50px;
-  background-color: #1583e9;
+  background-color: orange;
   color: #ffffff;
   text-align: center;
   height: 50px;
@@ -406,7 +406,7 @@ input:focus {
   padding: 0 30px;
   text-align: center;
   text-transform: capitalize;
-  color: #1583e9;
+  color: orange;
   border: none;
   border-radius: 50px;
   background-color: #ffffff;
@@ -520,7 +520,7 @@ input:focus {
       text-transform: capitalize;
       color: #303030; }
       .classy-nav-container .classy-navbar .classynav ul li a:focus, .classy-nav-container .classy-navbar .classynav ul li a:hover {
-        color: #1583e9; }
+        color: orange; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .classy-nav-container .classy-navbar .classynav ul li a {
           font-size: 14px;
