@@ -700,7 +700,7 @@ input:focus {
         .single-welcome-slide .welcome-text h2 {
           font-size: 42px; } }
       .single-welcome-slide .welcome-text h2 span {
-        color: #1583e9; }
+        color: orange; }
     .single-welcome-slide .welcome-text h5 {
       font-size: 22px;
       color: #a6a6a6;
@@ -1179,7 +1179,7 @@ input:focus {
     border-radius: 50%;
     width: 70px;
     height: 70px;
-    background-color: #1583e9;
+    background-color: orange;
     color: #ffffff;
     line-height: 70px;
     text-align: center;
@@ -1753,7 +1753,7 @@ input:focus {
   .cta-content .call-now-btn a {
     display: inline-block;
     font-size: 30px;
-    color: #1583e9; }
+    color: orange; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .cta-content .call-now-btn a {
         font-size: 22px; } }
