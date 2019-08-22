@@ -350,7 +350,6 @@ input:focus {
   margin-bottom: 70px; }
   .section-heading h2 {
     font-size: 48px;
-    text-transform: capitalize;
     margin-bottom: 0;
     line-height: 1.1; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
